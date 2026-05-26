@@ -26,10 +26,7 @@ A responsive personal portfolio website created using HTML and CSS.
 2. Cloud File Sharing Platform
 
 ## Live Demo
-https://6a09897f2908f90fd8b967de--secure-cloud-file-sharing.netlify.app/
-
-## GitHub Project
-https://github.com/NishantKeote/weather-forecastt
+https://portfolio-nishantkeote.netlify.app/
 
 ---
 
