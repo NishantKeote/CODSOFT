@@ -2,6 +2,7 @@
 
 A sleek, fully functional standard calculator built using vanilla web technologies. This project focuses heavily on implementing a dynamic user interface using CSS Grid and handling complex state management, conditional arithmetic evaluation, and multi-input listeners in JavaScript.
 
+🚀 **[View Live Demo](https://voluble-lollipop-9e6e50.netlify.app/)**
 ---
 
 ## 🎮 Features
